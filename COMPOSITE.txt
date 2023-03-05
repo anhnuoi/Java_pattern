@@ -1,0 +1,2 @@
+Dùng trong hệ thống tree (có nodes, leaf).
+TRong đó composite interface được dùng cho cả nodes và leaf.
